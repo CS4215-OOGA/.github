@@ -6,10 +6,4 @@ For NUS CS4215 PL Course.
 
 Ooga is a language for ooga booga cavemen programmers who want to do concurrency but don't want complicated language features. As such, it is intended to be a sublanguage of Go.
 
-Ooga files are suffixed with ".booga" and are run with "ooga".
-Example:
-
-```bash
-$ ooga hello_world.booga
-OOGA BOOGA
-```
+Get the [frontend repo](https://github.com/CS4215-OOGA/ooga-frontend) and the [language server](https://github.com/CS4215-OOGA/ooga-lang) running, then access the UI at [localhost:3000](http://localhost:3000).
